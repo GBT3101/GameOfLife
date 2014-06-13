@@ -1,0 +1,6 @@
+Execute with 4 arguments:
+<input file name> <width> <length> <number of generations> <printing frequency>
+
+For example, the file "init" is added to the repository, you can execute the game like this:
+- make
+- ./bin/ass3 init 10 10 200 1
